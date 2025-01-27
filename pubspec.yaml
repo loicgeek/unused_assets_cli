@@ -1,7 +1,7 @@
 name: unused_assets_cli
 description: A dart CLI to report and/or delete unused assets in a Flutter project.
 version: 0.0.1
-publish_to: none
+homepage: https://github.com/loicgeek/unused_assets_cli.git
 
 environment:
   sdk: "^3.3.0"
